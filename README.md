@@ -6,6 +6,8 @@ Welcome to **Clubs**, a comprehensive platform dedicated to football fans who wa
 
 **Clubs** is a WordPress-powered website that offers detailed blogs and articles about iconic football teams from the top 5 leagues: Bundesliga, La Liga, Ligue 1, Premier League, and Serie A. Our goal is to celebrate the rich histories, legendary players, and current stars of these prestigious leagues and their teams.
 
+![Screenshot 2024-08-05 145511](https://github.com/user-attachments/assets/7356a0ea-d3bb-4ee7-ae6e-f9ed0a971078)
+
 ## Features
 
 - **In-Depth Articles**: Detailed histories and notable achievements of top football teams.
@@ -19,6 +21,8 @@ Welcome to **Clubs**, a comprehensive platform dedicated to football fans who wa
 - **PHP**: For server-side scripting and to extend WordPress functionality.
 - **HTML/CSS**: For the structure and styling of the website.
 - **JavaScript**: For enhanced interactivity and dynamic content.
+
+![Screenshot 2024-08-05 145548](https://github.com/user-attachments/assets/340bd515-ecb1-43fe-a05d-38b5e6121d45)
 
 ## Installation
 
