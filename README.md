@@ -30,7 +30,22 @@ To run this project locally, follow these steps:
 
 2. **Navigate to the Project Directory:**
 
-```bash
-cd Clubs_WordPress
+   ```bash
+   cd Clubs_WordPress
 
-   
+3. **Set Up WordPress:**
+
+   1. Download and install WordPress from [here](https://wordpress.org/download/).
+   2. Place the WordPress files in the `clubs` directory.
+   3. Create a database for WordPress.
+   4. Configure the `wp-config.php` file with your database information.
+
+4. **Install Dependencies:**
+
+   1. Install necessary WordPress plugins and themes used in this project.
+
+5. **Run the Development Server:**
+
+   1. Start your local server (e.g., using XAMPP or MAMP).
+   2. Open your browser and go to `http://localhost/clubs` to see the website.
+  
