@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
 3. **Set Up WordPress:**
 
    1. Download and install WordPress from [here](https://wordpress.org/download/).
-   2. Place the WordPress files in the `clubs` directory.
+   2. Place the WordPress files in the `Clubs_WordPress` directory.
    3. Create a database for WordPress.
    4. Configure the `wp-config.php` file with your database information.
 
@@ -47,5 +47,29 @@ To run this project locally, follow these steps:
 5. **Run the Development Server:**
 
    1. Start your local server (e.g., using XAMPP or MAMP).
-   2. Open your browser and go to `http://localhost/clubs` to see the website.
+   2. Open your browser and go to `http://localhost/Clubs_WordPress` to see the website.
+
+## Usage
+
+Explore the website to read articles about your favorite football teams, learn about their histories, and stay updated with current player profiles and league overviews.
+
+## Contributing
+
+We welcome contributions from the community! To contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Open a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or suggestions, feel free to contact me at [aryanrathod410@example.com].
+
   
