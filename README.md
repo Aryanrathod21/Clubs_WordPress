@@ -1,4 +1,4 @@
-# Clubs
+# Clubs_WordPress
 
 Welcome to **Clubs**, a comprehensive platform dedicated to football fans who want to dive deep into the world of top football teams. This project was built using WordPress and PHP, providing a rich and engaging experience for users who love the beautiful game.
 
