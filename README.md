@@ -26,4 +26,11 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/clubs.git
+   git clone https://github.com/Aryanrathod21/Clubs_WordPress.git
+
+2. **Navigate to the Project Directory:**
+
+```bash
+cd Clubs_WordPress
+
+   
